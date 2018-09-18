@@ -7,22 +7,22 @@ Language: Java
 
 Gets input as an argument in the command line if possible. If no argument is provided, asks for input.
 
-### Sample execution:
+##### Sample execution:
 
-  TrinaryLogic> (T->?)&!(F|T)<->T&(F&?)
+* TrinaryLogic> (T->?)&!(F|T)<->T&(F&?)
 
-  (T→?)&!(F|T)↔T&(F&?)
+* (T→?)&!(F|T)↔T&(F&?)
 
-  (T→?)&!T↔T&(F&?)
+* (T→?)&!T↔T&(F&?)
 
-  (T→?)&F↔T&(F&?)
+* (T→?)&F↔T&(F&?)
 
-  (T→?)&F&(F&?)
+* (T→?)&F&(F&?)
 
-  (T→?)&F&F
+* (T→?)&F&F
 
-  (T→?)&F
+* (T→?)&F
 
-  ?&F
+* ?&F
 
-  F
+* F
